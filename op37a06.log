@@ -2,18 +2,4 @@ Attempting to parse op37a06.mscx
 Done parsing op37a06.mscx
 
 Failed to expand labels due to syntactic errors:
-8 organ points started, 3 ended! Beginnings:
-21     V
-65     V
-72     I
-161    V
-204    V
-211    i
-224    i
-235    i
-Name: pedal, dtype: object
-Endings:
-91     ]
-221    ]
-259    ]
-Name: pedalend, dtype: object
+repl_spec() missing 1 required positional argument: 'special'
