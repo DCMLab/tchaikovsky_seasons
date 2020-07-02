@@ -1,12 +1,4 @@
-Attempting to parse op37a11.mscx
-Done parsing op37a11.mscx
+INFO     op37a11.ms3 -- Attempting to parse op37a11.mscx
+INFO     op37a11.ms3 -- Done parsing op37a11.mscx
 
-The following chords could not be parsed:
-    mc  mn onset        label
-54  28  28     0     .bIII.ii
-67  32  32   1/2     .bIII.V7
-78  36  36     0  .bVII.V(64)
-82  38  38     0     .bIII.ii
-95  42  42   1/2     .bIII.V7
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  op37a11.expand_labels -- #viio43 in major context is most probably an annotation error.
