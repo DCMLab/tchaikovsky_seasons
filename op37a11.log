@@ -1,4 +1,7 @@
 INFO     op37a11.ms3 -- Attempting to parse op37a11.mscx
 INFO     op37a11.ms3 -- Done parsing op37a11.mscx
 
-WARNING  op37a11.expand_labels -- #viio43 in major context is most probably an annotation error.
+WARNING  op37a11.expand_labels -- MC 40: #viio43 in major context is most probably an annotation error.
+WARNING  op37a11.expand_labels -- MC 41: #viio43 in major context is most probably an annotation error.
+WARNING  op37a11.expand_labels -- MC 30: #viio43 in major context is most probably an annotation error.
+WARNING  op37a11.expand_labels -- MC 31: #viio43 in major context is most probably an annotation error.
