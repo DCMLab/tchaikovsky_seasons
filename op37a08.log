@@ -1,4 +1,2 @@
 INFO     op37a08.ms3 -- Attempting to parse op37a08.mscx
 INFO     op37a08.ms3 -- Done parsing op37a08.mscx
-
-WARNING  op37a08.expand_labels -- MC 82: #viio65 in major context is most probably an annotation error.
