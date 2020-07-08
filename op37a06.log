@@ -1,10 +1,10 @@
 INFO     op37a06.ms3 -- Attempting to parse op37a06.mscx
 INFO     op37a06.ms3 -- Done parsing op37a06.mscx
 
-WARNING  op37a06.expand_labels -- MC 11: The change 5 has no effect in V
-WARNING  op37a06.expand_labels -- MC 62: The change 5 has no effect in V
-WARNING  op37a06.expand_labels -- MC 62: #viio43 in major context is most probably an annotation error.
 WARNING  op37a06.expand_labels -- MC 82: The change 5 has no effect in V
 WARNING  op37a06.expand_labels -- MC 62: #viio43(4) in major context is most probably an annotation error.
+WARNING  op37a06.expand_labels -- MC 62: #viio43 in major context is most probably an annotation error.
+WARNING  op37a06.expand_labels -- MC 11: The change 5 has no effect in V
 WARNING  op37a06.expand_labels -- MC 31: The change 5 has no effect in V
 WARNING  op37a06.expand_labels -- MC 54: #viio6 in major context is most probably an annotation error.
+WARNING  op37a06.expand_labels -- MC 62: The change 5 has no effect in V
