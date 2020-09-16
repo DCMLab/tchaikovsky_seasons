@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.0.5</programVersion>
-  <programRevision>58dd23d</programRevision>
+  <programVersion>3.4.2</programVersion>
+  <programRevision>148e43f</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
-    <Synthesizer>
-      </Synthesizer>
     <Division>480</Division>
     <Style>
       <pageWidth>8.5</pageWidth>
@@ -177,7 +175,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>.d.i[i</name>
+            <name>.d.i[i{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -594,7 +592,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7(4)</name>
+            <name>V7(4)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -615,7 +613,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7\\</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -673,15 +671,11 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V2</name>
+            <name>V2{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -689,6 +683,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -724,7 +719,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -732,6 +726,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -800,7 +795,6 @@
             <name>V43</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -808,6 +802,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -851,7 +846,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -859,6 +853,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -960,7 +955,6 @@
               </next>
             </Spanner>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -968,6 +962,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -1014,7 +1009,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1022,6 +1016,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -1029,9 +1024,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.0679874" y="-0.203962"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1136,7 +1128,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1144,6 +1135,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -1208,7 +1200,6 @@
               </prev>
             </Spanner>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1216,6 +1207,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -1286,7 +1278,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1294,6 +1285,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -1348,7 +1340,6 @@
             <name>V7(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1356,6 +1347,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -1401,7 +1393,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1409,6 +1400,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -1479,7 +1471,7 @@
             <offset x="0.851325" y="3.87977"/>
             </Dynamic>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1503,6 +1495,9 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -1727,11 +1722,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <o1 x="-0.918153" y="-0.303038"/>
-                  <o2 x="3.83602" y="0.276684"/>
-                  <o3 x="5.80679" y="0.305621"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1869,7 +1859,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V(#74)</name>
+            <name>V(#74)}</name>
             </Harmony>
           <Beam>
             </Beam>
@@ -1904,7 +1894,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1940,10 +1930,9 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III.V2</name>
+            <name>III.V2{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1951,6 +1940,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -1987,7 +1977,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -1995,6 +1984,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2030,7 +2020,7 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>I6(2)</name>
+            <name>I6(2)}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2043,7 +2033,7 @@
             <fractions>-1/12</fractions>
             </location>
           <Harmony>
-            <name>I6\\</name>
+            <name>I6</name>
             </Harmony>
           </voice>
         </Measure>
@@ -2053,10 +2043,9 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>i.V2(6)</name>
+            <name>i.V2(6){</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2064,6 +2053,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -2099,7 +2089,6 @@
             <name>V2</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2107,6 +2096,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2145,7 +2135,7 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i6(2)</name>
+            <name>i6(2)}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2158,17 +2148,16 @@
             <fractions>-1/12</fractions>
             </location>
           <Harmony>
-            <name>i6\\</name>
+            <name>i6</name>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
-            <name>iv(4)</name>
+            <name>iv(4)(</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2176,6 +2165,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -2217,7 +2207,6 @@
             <name>iv</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2225,6 +2214,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2269,7 +2259,6 @@
             <name>V(64)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2277,6 +2266,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2329,7 +2319,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2337,6 +2326,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2399,7 +2389,6 @@
             <name>V7</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2407,6 +2396,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2459,7 +2449,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2467,6 +2456,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2515,10 +2505,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i(9)</name>
+            <name>i(9)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2526,6 +2515,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -2572,7 +2562,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2580,6 +2569,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -2598,7 +2588,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             <offset x="0.349359" y="-2.88378"/>
             </Harmony>
           <Chord>
@@ -2648,11 +2638,9 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>III.V2</name>
+            <name>III.V2{</name>
             </Harmony>
           <Tuplet>
-            <direction>down</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2660,6 +2648,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -2691,7 +2681,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2699,6 +2688,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -2738,7 +2728,6 @@
             <name>I6</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2746,6 +2735,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -2779,7 +2769,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2787,6 +2776,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -2860,10 +2850,9 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I(4)</name>
+            <name>I(4)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2871,6 +2860,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2927,7 +2917,6 @@
             <name>I(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2935,6 +2924,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -2954,7 +2944,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I\\</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2975,7 +2965,6 @@
           </voice>
         <voice>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -2983,6 +2972,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -3014,7 +3004,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3022,6 +3011,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -3103,10 +3093,9 @@
         <stretch>0.4</stretch>
         <voice>
           <Harmony>
-            <name>V2</name>
+            <name>V2{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3114,6 +3103,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -3145,7 +3135,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3153,6 +3142,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -3192,8 +3182,6 @@
             <name>I6</name>
             </Harmony>
           <Tuplet>
-            <direction>down</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3201,6 +3189,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3234,8 +3224,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <direction>down</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3243,6 +3231,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3319,12 +3309,11 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i6(#76)</name>
+            <name>i6(#76)}</name>
             <offset x="-0.17468" y="-5.50398"/>
             </Harmony>
           <Tuplet>
             <offset x="-0.0392767" y="0.47132"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3332,6 +3321,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3389,7 +3379,6 @@
             <name>i6(9)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3397,6 +3386,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3416,7 +3406,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i6\\</name>
+            <name>i6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3437,7 +3427,6 @@
           </voice>
         <voice>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="1.94"/>
@@ -3447,6 +3436,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -3482,7 +3472,6 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0" y="0.826256"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3490,6 +3479,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -3565,7 +3555,7 @@
         <stretch>0.4</stretch>
         <voice>
           <Harmony>
-            <name>V65(6)</name>
+            <name>V65(6){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3602,7 +3592,6 @@
             </Harmony>
           <Tuplet>
             <offset x="0.0864087" y="0.648064"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3610,6 +3599,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3665,14 +3655,13 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>V7(9)</name>
+            <name>V7(9)}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
             <timeStretch>2</timeStretch>
             </Fermata>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3680,6 +3669,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3700,7 +3690,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7\\</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3721,7 +3711,6 @@
           </voice>
         <voice>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="6.46668"/>
@@ -3731,6 +3720,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -3766,7 +3756,6 @@
           <endTuplet/>
           <Tuplet>
             <offset x="-0.0324601" y="1.85022"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3774,6 +3763,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -3848,10 +3838,9 @@
             <velocity>80</velocity>
             </Dynamic>
           <Harmony>
-            <name>iv.V6</name>
+            <name>iv.V6{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3859,6 +3848,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -3903,7 +3893,6 @@
             <name>V65(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3911,6 +3900,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3947,10 +3937,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i(9)</name>
+            <name>i(9)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3958,6 +3947,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -4009,7 +3999,6 @@
             <name>i(97)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4017,6 +4006,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4035,7 +4025,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4058,11 +4048,9 @@
         <stretch>0.4</stretch>
         <voice>
           <Harmony>
-            <name>III.V(4)</name>
+            <name>III.V(4){</name>
             </Harmony>
           <Tuplet>
-            <direction>down</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4070,6 +4058,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -4115,7 +4105,6 @@
             <name>V(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4123,6 +4112,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4159,10 +4149,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>I(9)</name>
+            <name>I(9)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4170,6 +4159,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -4219,8 +4209,6 @@
             </Harmony>
           <Tuplet>
             <offset x="-0.0822648" y="7.81515"/>
-            <direction>up</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="-9.70002"/>
@@ -4230,6 +4218,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4248,7 +4238,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I+\\</name>
+            <name>I+</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4274,10 +4264,9 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>i.VI(4)</name>
+            <name>i.VI(4){</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4285,6 +4274,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -4326,7 +4316,6 @@
             <name>VI(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4334,6 +4323,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4373,7 +4363,6 @@
             <name>iv7</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4381,6 +4370,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -4427,7 +4417,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4435,6 +4424,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -4490,7 +4480,6 @@
             </Harmony>
           <Tuplet>
             <offset x="-0.135975" y="7.95453"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="-8.40669"/>
@@ -4500,6 +4489,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -4538,7 +4528,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4546,6 +4535,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -4588,10 +4578,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4599,6 +4588,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -4647,7 +4637,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4655,6 +4644,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4693,10 +4683,9 @@
         <stretch>0.4</stretch>
         <voice>
           <Harmony>
-            <name>iv.V6</name>
+            <name>iv.V6{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4704,6 +4693,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -4748,7 +4738,6 @@
             <name>V65(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4756,6 +4745,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4792,10 +4782,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i(9)</name>
+            <name>i(9)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4803,6 +4792,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -4855,8 +4845,6 @@
             </Harmony>
           <Tuplet>
             <offset x="1.01981" y="7.27465"/>
-            <direction>up</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="-0.611887" y="-8.51414"/>
@@ -4866,6 +4854,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4884,7 +4874,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4910,10 +4900,9 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>III.V(4)</name>
+            <name>III.V(4){</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4921,6 +4910,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -4958,7 +4948,6 @@
             <name>V(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -4966,6 +4955,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -4993,10 +4983,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>I(9)</name>
+            <name>I(9){</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5004,6 +4993,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -5052,8 +5042,6 @@
             <name>I(97)</name>
             </Harmony>
           <Tuplet>
-            <direction>up</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="-6.46668"/>
@@ -5063,6 +5051,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -5081,7 +5071,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>I+\\</name>
+            <name>I+</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5104,10 +5094,9 @@
         <stretch>0.4</stretch>
         <voice>
           <Harmony>
-            <name>i.VI(4)</name>
+            <name>i.VI(4){</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5115,6 +5104,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -5156,7 +5146,6 @@
             <name>VI(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5164,6 +5153,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -5203,7 +5193,6 @@
             <name>iv7</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5211,6 +5200,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -5257,7 +5247,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5265,6 +5254,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -5320,7 +5310,6 @@
             </Harmony>
           <Tuplet>
             <offset x="-0.203962" y="9.38226"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="-10.9934"/>
@@ -5330,6 +5319,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -5337,11 +5327,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5.17302"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5383,7 +5368,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5391,6 +5375,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -5433,10 +5418,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5444,6 +5428,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -5499,7 +5484,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5507,6 +5491,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -5548,10 +5533,9 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>ii%65</name>
+            <name>ii%65{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5559,6 +5543,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -5603,7 +5588,6 @@
             <name>ii%65(4)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5611,6 +5595,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -5689,9 +5674,6 @@
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.203962" y="0.0679874"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5705,9 +5687,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -5717,7 +5696,6 @@
             <name>ii%65</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5725,6 +5703,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -5769,7 +5748,6 @@
             <name>ii%65(4)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -5777,6 +5755,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -5813,7 +5792,7 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>V7\\</name>
+            <name>V7}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5855,9 +5834,6 @@
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.203962" y="-0.135975"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5876,9 +5852,6 @@
       <Measure>
         <stretch>0.4</stretch>
         <voice>
-          <Harmony>
-            <name>@none</name>
-            </Harmony>
           <StaffText>
             <style>Tempo</style>
             <text>rit.</text>
@@ -5911,7 +5884,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>i[i</name>
+            <name>i[i{</name>
             </Harmony>
           <StaffText>
             <style>Tempo</style>
@@ -6310,7 +6283,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7(4)</name>
+            <name>V7(4)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -6331,7 +6304,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7\\</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -6391,14 +6364,13 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V2</name>
+            <name>V2{</name>
             </Harmony>
           <StaffText>
             <placement>below</placement>
             <text>poco cresc.</text>
             </StaffText>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6406,6 +6378,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -6437,7 +6410,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6445,6 +6417,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -6513,7 +6486,6 @@
             <name>V43</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6521,6 +6493,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -6564,7 +6537,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6572,6 +6544,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -6677,7 +6650,6 @@
               </next>
             </Spanner>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6685,6 +6657,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -6731,7 +6704,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6739,6 +6711,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -6812,9 +6785,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="1">
-                  <offset x="-0.135975" y="-0.543899"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6852,7 +6822,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6860,6 +6829,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -6921,7 +6891,6 @@
               </prev>
             </Spanner>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -6929,6 +6898,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -6998,7 +6968,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7006,6 +6975,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -7060,7 +7030,6 @@
             <name>V7(6)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7068,6 +7037,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -7113,7 +7083,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7121,6 +7090,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -7197,7 +7167,7 @@
             <offset x="0.851325" y="3.87977"/>
             </Dynamic>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7211,6 +7181,9 @@
             <offset x="-1.83566" y="1.05245"/>
             <text>marcato</text>
             </StaffText>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -7435,11 +7408,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.170291" y="-1.73077"/>
-                  <o2 x="4.99181" y="-4.48244"/>
-                  <o3 x="5.80679" y="0.305621"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7576,7 +7544,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V(#74)</name>
+            <name>V(#74)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7603,7 +7571,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -7631,10 +7599,9 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>III.V2</name>
+            <name>III.V2{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7642,6 +7609,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -7678,7 +7646,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7686,6 +7653,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -7721,7 +7689,7 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>I6(2)</name>
+            <name>I6(2)}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7734,17 +7702,16 @@
             <fractions>-1/12</fractions>
             </location>
           <Harmony>
-            <name>I6\\</name>
+            <name>I6</name>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
-            <name>i.V2(6)</name>
+            <name>i.V2(6){</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7752,6 +7719,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -7787,7 +7755,6 @@
             <name>V2</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7795,6 +7762,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -7833,7 +7801,7 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i6(2)</name>
+            <name>i6(2)}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7846,17 +7814,16 @@
             <fractions>-1/12</fractions>
             </location>
           <Harmony>
-            <name>i6\\</name>
+            <name>i6</name>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
-            <name>iv(4)</name>
+            <name>iv(4){</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7864,6 +7831,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -7908,7 +7876,6 @@
             <name>iv</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7916,6 +7883,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -7960,7 +7928,6 @@
             <name>V(64)</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -7968,6 +7935,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -8030,7 +7998,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8038,6 +8005,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -8101,7 +8069,6 @@
             <name>V7</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8109,6 +8076,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -8163,7 +8131,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8171,6 +8138,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -8221,10 +8189,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i(9)</name>
+            <name>i(9)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8232,6 +8199,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -8278,7 +8246,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8286,6 +8253,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -8304,7 +8272,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8357,10 +8325,9 @@
             <velocity>33</velocity>
             </Dynamic>
           <Harmony>
-            <name>ii%2</name>
+            <name>ii%2{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8368,6 +8335,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -8378,10 +8346,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.775953" y="1.16393"/>
-                  <o3 x="0.775953" y="1.16393"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8406,7 +8370,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8414,6 +8377,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -8457,10 +8421,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i(9)</name>
+            <name>i(9)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8468,6 +8431,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -8515,7 +8479,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8523,6 +8486,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -8542,7 +8506,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8583,12 +8547,10 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>iv</name>
+            <name>iv{</name>
             </Harmony>
           <Tuplet>
             <offset x="-1.42774" y="10.674"/>
-            <direction>up</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="2.03403" y="-8.1246"/>
@@ -8598,6 +8560,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="2.58651"/>
@@ -8652,7 +8616,6 @@
             <name>i</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8660,6 +8623,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -8733,7 +8697,6 @@
             <name>ii%2</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <p1 x="0" y="-9.70002"/>
@@ -8743,6 +8706,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="2.58651"/>
@@ -8779,7 +8743,6 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0.0714121" y="-1.21401"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8787,6 +8750,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -8830,10 +8794,9 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>i(9)</name>
+            <name>i(9)}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8841,6 +8804,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -8888,7 +8852,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8896,6 +8859,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -8915,7 +8879,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8956,10 +8920,9 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>ii%2</name>
+            <name>ii%2{</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -8967,6 +8930,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9021,7 +8985,6 @@
             <name>i</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9029,6 +8992,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -9099,7 +9063,6 @@
             <name>ii%2</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9107,6 +9070,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <durationType>eighth</durationType>
@@ -9154,10 +9118,9 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9165,6 +9128,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -9240,7 +9204,6 @@
       <Measure>
         <voice>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9248,6 +9211,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -9297,7 +9261,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9305,6 +9268,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -9338,7 +9302,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9346,6 +9309,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -9379,7 +9343,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9387,6 +9350,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -9426,9 +9390,6 @@
           <subtype>page</subtype>
           </LayoutBreak>
         <voice>
-          <Harmony>
-            <name>@none</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -9459,7 +9420,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -9467,6 +9427,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -9490,15 +9451,15 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <timeStretch>4</timeStretch>
-            </Fermata>
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <offset x="0.855399" y="2.86706"/>
             <text><sym>dynamicPiano</sym><sym>dynamicPiano</sym><sym>dynamicPiano</sym><sym>dynamicPiano</sym></text>
             </Dynamic>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <timeStretch>4</timeStretch>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -10489,7 +10450,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -10497,6 +10457,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10531,7 +10492,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -10539,6 +10499,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -10632,7 +10593,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -10640,6 +10600,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10677,7 +10638,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -10685,6 +10645,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -11184,8 +11145,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <direction>up</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11193,6 +11152,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2.58651"/>
@@ -11218,7 +11179,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11226,6 +11186,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11321,8 +11282,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <direction>up</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11330,6 +11289,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2.58651"/>
@@ -11356,8 +11317,6 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0" y="-0.388839"/>
-            <direction>up</direction>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11365,6 +11324,8 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>up</direction>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11641,7 +11602,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11649,6 +11609,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2.58651"/>
@@ -11658,12 +11619,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.0392767" y="-1.49251"/>
-                  <o2 x="1.25685" y="-1.3354"/>
-                  <o3 x="-0.157107" y="0.274937"/>
-                  <o4 x="0.0785534" y="0.432043"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11679,7 +11634,6 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0" y="-0.432043"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11687,6 +11641,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -11785,7 +11740,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11793,6 +11747,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
             <offset x="0" y="-2.58651"/>
@@ -11802,12 +11757,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.142575" y="-1.66337"/>
-                  <o2 x="-0.380198" y="-1.37822"/>
-                  <o3 x="0" y="0.522773"/>
-                  <o4 x="0.142575" y="0.427723"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -11825,7 +11774,6 @@
           <endTuplet/>
           <Tuplet>
             <offset x="0" y="-0.432043"/>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -11833,6 +11781,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -12095,7 +12044,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12103,6 +12051,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -12110,9 +12059,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0679874" y="-0.308022"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12151,7 +12097,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12159,6 +12104,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12258,11 +12204,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-6.21324"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -12272,7 +12213,6 @@
               </next>
             </Spanner>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12280,6 +12220,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -12325,7 +12266,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12333,6 +12273,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12412,7 +12353,6 @@
       <Measure>
         <voice>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12420,6 +12360,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12453,7 +12394,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12461,6 +12401,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12508,11 +12449,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-6.21324"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -12522,7 +12458,6 @@
               </next>
             </Spanner>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12530,6 +12465,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -12537,11 +12473,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.224122" y="0.896487"/>
-                  <o3 x="-0.224122" y="0.896487"/>
-                  <o4 x="-0.339937" y="-0.0679874"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12580,7 +12511,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12588,6 +12518,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             </Beam>
@@ -12635,7 +12566,6 @@
       <Measure>
         <voice>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12643,6 +12573,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12677,7 +12608,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12685,6 +12615,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12718,7 +12649,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12726,6 +12656,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12759,7 +12690,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -12767,6 +12697,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -12874,12 +12805,6 @@
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="0.820583"/>
-                  <o2 x="0.273527" y="0.68382"/>
-                  <o3 x="0.273527" y="0.68382"/>
-                  <o4 x="-0.273527" y="0.68382"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12902,9 +12827,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.506261" y="1.04084"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -13281,11 +13203,6 @@
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="1.80528"/>
-                  <o2 x="0.15044" y="8.9732e-19"/>
-                  <o3 x="0.15044" y="8.9732e-19"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -13518,8 +13435,8 @@
               </Spanner>
             <Articulation>
               <subtype>articAccentAbove</subtype>
-              <offset x="0.135975" y="-0.203962"/>
               <anchor>3</anchor>
+              <offset x="0.135975" y="-0.203962"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -13758,7 +13675,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -13766,6 +13682,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13810,7 +13727,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -13818,6 +13734,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -13912,7 +13829,6 @@
               </Note>
             </Chord>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -13920,6 +13836,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13957,7 +13874,6 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
-            <bracketType>2</bracketType>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -13965,6 +13881,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <bracketType>2</bracketType>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
