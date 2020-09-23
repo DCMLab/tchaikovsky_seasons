@@ -1,0 +1,6 @@
+INFO     op37a10.ms3 -- Attempting to parse op37a10.mscx
+INFO     op37a10.ms3 -- Done parsing op37a10.mscx
+
+WARNING  op37a10.expand_labels -- The following chords could not be parsed:
+    mc  mn onset   label
+49  15  15     0  iv(4)(
