@@ -44,7 +44,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	p
 22	22	0	0	2/4	1	1	V65		D	IV		V65		V		65				Mm7	0	0	5, 2, -1, 1		1	5
 22	22	1/4	1/4	2/4	1	1	I		D	IV		I		I						M	0	0	0, 4, 1		0	0
 23	23	0	0	2/4	1	1	I.ii%65		D	I		ii%65		ii	%	65				%7	0	0	-1, -4, 0, 2		2	-1
-25	25	1/4	1/4	2/4	1	1	.Fr65		D	I		Fr65	Fr	V		65	b5	V		Mm7	0	0	6, -4, 0, 2		2	6
+25	25	1/4	1/4	2/4	1	1	.Fr65		D	I		Fr65	Fr	V		65	b5	V		Fr	0	0	6, -4, 0, 2		2	6
 26	26	0	0	2/4	1	1	V(4)		D	I		V(4)		V			4			M	0	0	1, 0, 2		1	1
 26	26	1/8	1/8	2/4	1	1	V7		D	I		V7		V		7				Mm7	0	0	1, 5, 2, -1		1	1
 26	26	1/4	1/4	2/4	1	1	I}		D	I		I		I					}	M	0	0	0, 4, 1		0	0
@@ -157,7 +157,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	p
 80	80	0	0	2/4	1	1	V65		D	IV		V65		V		65				Mm7	0	0	5, 2, -1, 1		1	5
 80	80	1/4	1/4	2/4	1	1	I		D	IV		I		I						M	0	0	0, 4, 1		0	0
 81	81	0	0	2/4	1	1	I.ii%65		D	I		ii%65		ii	%	65				%7	0	0	-1, -4, 0, 2		2	-1
-83	83	1/4	1/4	2/4	1	1	.Fr65		D	I		Fr65	Fr	V		65	b5	V		Mm7	0	0	6, -4, 0, 2		2	6
+83	83	1/4	1/4	2/4	1	1	.Fr65		D	I		Fr65	Fr	V		65	b5	V		Fr	0	0	6, -4, 0, 2		2	6
 84	84	0	0	2/4	1	1	V(4)		D	I		V(4)		V			4			M	0	0	1, 0, 2		1	1
 84	84	1/8	1/8	2/4	1	1	V7		D	I		V7		V		7				Mm7	0	0	1, 5, 2, -1		1	1
 84	84	1/4	1/4	2/4	1	1	I}		D	I		I		I					}	M	0	0	0, 4, 1		0	0
