@@ -14462,7 +14462,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+b9)/II</name>
+            <name>V7(+b9)/ii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14499,7 +14499,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>II</name>
+            <name>V/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
