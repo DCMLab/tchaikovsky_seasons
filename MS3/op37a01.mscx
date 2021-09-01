@@ -19489,7 +19489,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]</name>
+            <name>I</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -19666,7 +19666,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[V2/V</name>
+            <name>V2/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
