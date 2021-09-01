@@ -22343,7 +22343,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
