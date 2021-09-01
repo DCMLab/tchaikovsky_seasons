@@ -5503,6 +5503,12 @@
               </Number>
             <bracketType>2</bracketType>
             </Tuplet>
+          <Beam>
+            <Fragment>
+              <y1>-1.96237</y1>
+              <y2>-1.96237</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
@@ -17834,7 +17840,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvi.Fr6</name>
+            <name>Fr6/I</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17933,7 +17939,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18058,7 +18064,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18185,7 +18191,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18315,7 +18321,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)}</name>
+            <name>I(4)}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18402,7 +18408,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I|IAC</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
