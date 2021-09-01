@@ -13450,7 +13450,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I(4)|PC}</name>
+            <name>I[I(4)}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13474,7 +13474,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13804,7 +13804,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
