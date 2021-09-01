@@ -19399,7 +19399,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII6-I(b6b3)</name>
+            <name>bVI6-I(b6b3)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -19918,7 +19918,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI6</name>
+            <name>bVI6-I(b6b3)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
