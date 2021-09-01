@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision/>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -140,7 +140,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.364</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -9104,7 +9103,6 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <voices>1</voices>
                   <measures>-1</measures>
                   <fractions>1/2</fractions>
                   </location>
@@ -9113,6 +9111,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
+                  <voices>1</voices>
                   <measures>-1</measures>
                   <fractions>1/2</fractions>
                   </location>
@@ -10383,7 +10382,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(4)(</name>
+            <name>iv(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
