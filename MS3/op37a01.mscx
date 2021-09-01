@@ -43,6 +43,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
       <musicalTextFont>Leland Text</musicalTextFont>
@@ -287,7 +289,7 @@
             <visible>0</visible>
             <minDistance>-7.20609</minDistance>
             <offset x="1.54122" y="-3.58217"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> =90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> =90</b></text>
             </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -12629,7 +12631,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7|HC</name>
             </Harmony>
           </voice>
         </Measure>
