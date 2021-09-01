@@ -25039,7 +25039,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>viio65/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25075,6 +25075,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            </Harmony>
           </voice>
         <voice>
           <location>
