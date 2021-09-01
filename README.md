@@ -22,29 +22,17 @@ Annotations by Adrian Nagel, reviewed by JH
 
 
 # Overview
-|file_name|measures|labels|standard|annotators|reviewers|
-|---------|-------:|-----:|--------|----------|---------|
-|         |     103|   310|        |          |         |
-|         |     169|   292|        |          |         |
-|         |      46|   116|        |          |         |
-|         |      86|   208|        |          |         |
-|         |      88|   193|        |          |         |
-|         |      99|   258|        |          |         |
-|         |      56|   181|        |          |         |
-|         |     198|   496|        |          |         |
-|         |      90|   368|        |          |         |
-|         |      56|   189|        |          |         |
-|         |      83|   162|        |          |         |
-|         |     176|   262|        |          |         |
-|         |        |   330|        |          |         |
-|         |        |   286|        |          |         |
-|         |        |   115|        |          |         |
-|         |        |   214|        |          |         |
-|         |        |   194|        |          |         |
-|         |        |   260|        |          |         |
-|         |        |   179|        |          |         |
-|         |        |   476|        |          |         |
-|         |        |   364|        |          |         |
-|         |        |   189|        |          |         |
-|         |        |   159|        |          |         |
-|         |        |   262|        |          |         |
+|file_name|measures|labels|standard| annotators |    reviewers     |
+|---------|-------:|-----:|--------|------------|------------------|
+|op37a01  |     103|   310|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a02  |     169|   292|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a03  |      46|   116|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a04  |      86|   208|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a05  |      88|   193|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a06  |      99|   258|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a07  |      56|   181|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a08  |     198|   496|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a09  |      90|   368|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a10  |      56|   189|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a11  |      83|   162|2.1.1   |Adrian Nagel|Johannes Hentschel|
+|op37a12  |     176|   262|2.1.1   |Adrian Nagel|Johannes Hentschel|
