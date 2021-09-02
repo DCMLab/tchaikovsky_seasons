@@ -29430,6 +29430,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/V-Fro3</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
