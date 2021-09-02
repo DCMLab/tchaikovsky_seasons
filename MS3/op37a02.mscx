@@ -285,7 +285,7 @@
           <Tempo>
             <tempo>2.5</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 150</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 150</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -20213,7 +20213,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv-ii%65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
