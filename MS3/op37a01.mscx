@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -186,7 +185,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Johannes Hentschel</metaTag>
+    <metaTag name="reviewers">Johannes Hentschel, AN</metaTag>
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source">http://musescore.com/user/12839876/scores/3444321</metaTag>
     <metaTag name="translator"></metaTag>
@@ -14468,7 +14467,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+b9)/ii</name>
+            <name>V7(+b9)/V/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
