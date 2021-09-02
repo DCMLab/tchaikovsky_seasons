@@ -2332,9 +2332,13 @@
               </next>
             </Spanner>
           <Beam>
+            <Fragment>
+              <y1>2.26305</y1>
+              <y2>2.01305</y2>
+              </Fragment>
             </Beam>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
                 </Slur>
