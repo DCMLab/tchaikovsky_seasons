@@ -17839,7 +17839,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/I-V43(b5)</name>
+            <name>Fr6/iv-V43(b5)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17962,7 +17962,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr6/iv-V43(b5)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18091,7 +18091,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr6/iv-V43(b5)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18214,7 +18214,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr6/iv-V43(b5)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
