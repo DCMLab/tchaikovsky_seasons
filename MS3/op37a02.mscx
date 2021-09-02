@@ -12300,11 +12300,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <pitch>74</pitch>
@@ -27062,7 +27059,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIV.V65</name>
+            <name>bVI.V65</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
