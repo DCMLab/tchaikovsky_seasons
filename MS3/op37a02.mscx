@@ -18156,7 +18156,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio64</name>
+            <name>(iio64</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18283,7 +18283,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64</name>
+            <name>ii64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
