@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision/>
+  <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -51,6 +52,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
       <musicalTextFont>Leland Text</musicalTextFont>
@@ -149,7 +152,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.451</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -7762,16 +7764,6 @@
     <Staff id="2">
       <Measure len="1/8">
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Bb.V{</name>
-            <offset x="-1.48389" y="-2.5"/>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
@@ -7781,6 +7773,16 @@
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Bb.V{</name>
+            <offset x="-1.48389" y="-2.5"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -8173,20 +8175,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii.V2</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iii.V2</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -8504,7 +8506,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8577,20 +8579,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43(9)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43(9)</name>
+            </Harmony>
           <StaffText>
             <family>FreeSerif</family>
             <text><font size="11.2544"></font><font face="Plantin MT Std"></font>marc. la melodia</text>
@@ -8928,20 +8930,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.viio65/V</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.viio65/V</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -9285,20 +9287,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.V43(9)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.V43(9)</name>
+            </Harmony>
           <StaffText>
             <family>FreeSerif</family>
             <text><font size="11.2544"></font><font face="Plantin MT Std"></font>poco cresc.</text>
@@ -9632,20 +9634,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.viio65/V</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.viio65/V</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -10020,20 +10022,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii.iv7{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iii.iv7{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -10386,20 +10388,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7{</name>
-            </Harmony>
+          <KeySig>
+            <autoplace>0</autoplace>
+            <accidental>-2</accidental>
+            <mode>major</mode>
+            </KeySig>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>-2</accidental>
-            <mode>major</mode>
-            </KeySig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv7{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -10753,20 +10755,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V.V2(6)/ii{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.V2(6)/ii{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -11318,20 +11320,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%43{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%43{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -11723,20 +11725,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv7{</name>
+            </Harmony>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -12090,20 +12092,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7{</name>
-            </Harmony>
+          <KeySig>
+            <autoplace>0</autoplace>
+            <accidental>-2</accidental>
+            <mode>major</mode>
+            </KeySig>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>-2</accidental>
-            <mode>major</mode>
-            </KeySig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv7{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -12457,20 +12459,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V.V2(6)/ii{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.V2(6)/ii{</name>
+            </Harmony>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
@@ -13048,20 +13050,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.V65{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.V65{</name>
+            </Harmony>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -13543,20 +13545,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii2</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii2</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -14041,20 +14043,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii64(4)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii64(4)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -14526,20 +14528,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43(9)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43(9)</name>
+            </Harmony>
           <StaffText>
             <family>FreeSerif</family>
             <text><font size="11.2544"></font><font face="Plantin MT Std"></font>marcato la melodia</text>
@@ -14881,20 +14883,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.viio65/V</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.viio65/V</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -14984,20 +14986,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -15401,20 +15403,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(11)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(11)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -15545,20 +15547,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.Ger6{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.Ger6{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -16158,20 +16160,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio43</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio43</name>
+            </Harmony>
           <StaffText>
             <family>FreeSerif</family>
             <text><font size="11.2544"></font><font face="Plantin MT Std"></font>morendo si poco a poco</text>
@@ -16377,15 +16379,15 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I}</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I}</name>
+            </Harmony>
           <Dynamic>
             <subtype>ppp</subtype>
             <velocity>16</velocity>
