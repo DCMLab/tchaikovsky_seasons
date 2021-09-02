@@ -7229,7 +7229,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6}</name>
+            <name>i6(9)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7247,6 +7247,16 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <location>
+            <fractions>3/16</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III.viio43(4){</name>
