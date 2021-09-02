@@ -14726,7 +14726,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv-ii%65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
