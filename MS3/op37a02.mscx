@@ -17762,7 +17762,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>(i6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17910,7 +17910,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
