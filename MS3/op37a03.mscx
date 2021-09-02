@@ -8779,7 +8779,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(94)</name>
+            <name>iv64(94)-iv(94)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -8814,14 +8814,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(4)</name>
+            <name>iv64(4)-iv(4)</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv64-iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
