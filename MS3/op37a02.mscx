@@ -23257,7 +23257,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V6</name>
+            <name>I.V6/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -23317,7 +23317,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>V|HC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
