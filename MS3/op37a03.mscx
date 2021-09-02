@@ -721,6 +721,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="1.64404" y="3.56576"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6290,7 +6295,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(94)</name>
+            <name>iv64(94)-iv(94)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6322,14 +6327,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(4)</name>
+            <name>iv64(4)-iv(4)</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv64-iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
