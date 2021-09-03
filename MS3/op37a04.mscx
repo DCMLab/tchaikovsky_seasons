@@ -3429,6 +3429,9 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <SystemText>
+            <text>rit.</text>
+            </SystemText>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -3481,6 +3484,9 @@
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
+          <SystemText>
+            <text>a tempo</text>
+            </SystemText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
