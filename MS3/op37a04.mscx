@@ -13509,6 +13509,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii.V43(9)</name>
+            <offset x="0.247275" y="4.92187"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
