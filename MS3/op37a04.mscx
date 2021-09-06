@@ -14893,7 +14893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
