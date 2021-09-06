@@ -11895,7 +11895,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.#viio43</name>
+            <name>#viio43/ii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11923,7 +11923,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(4)}</name>
+            <name>ii(4)}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -11957,7 +11957,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
