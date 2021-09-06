@@ -13279,7 +13279,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
