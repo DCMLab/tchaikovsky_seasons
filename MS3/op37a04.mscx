@@ -14027,6 +14027,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi.#viio7(#2){</name>
+            <minDistance>0.252725</minDistance>
+            <offset x="0" y="6.23262"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
