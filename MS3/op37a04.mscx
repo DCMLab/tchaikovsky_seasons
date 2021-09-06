@@ -5441,6 +5441,9 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <StaffText>
+            <text>a tempo</text>
+            </StaffText>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -12577,6 +12580,9 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <StaffText>
+            <text>rit.</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -12661,7 +12667,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7|HC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
