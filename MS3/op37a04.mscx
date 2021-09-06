@@ -8455,7 +8455,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)|IAC}</name>
+            <name>i(9)}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8492,7 +8492,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
