@@ -11852,6 +11852,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -11878,15 +11882,15 @@
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>76</pitch>
-              <tpc>6</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Harmony>
@@ -11905,13 +11909,16 @@
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
+            <Stem>
+              <userLen>0.1</userLen>
+              </Stem>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             <Note>
-              <pitch>76</pitch>
-              <tpc>6</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Harmony>
@@ -11936,16 +11943,16 @@
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Harmony>
@@ -11965,22 +11972,18 @@
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               </Note>
             <Note>
-              <pitch>75</pitch>
-              <tpc>11</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
@@ -11990,10 +11993,6 @@
             <accidental>-2</accidental>
             <mode>major</mode>
             </KeySig>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.V65{</name>
