@@ -15067,7 +15067,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Dynamic>
             <subtype>ppp</subtype>
