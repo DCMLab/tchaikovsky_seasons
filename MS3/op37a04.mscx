@@ -7173,7 +7173,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Bb.V{</name>
+            <name>Bb.I{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -7189,10 +7189,6 @@
           <StaffText>
             <text><font size="11.2544"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
