@@ -13325,7 +13325,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V{</name>
+            <name>{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13349,7 +13349,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(9)</name>
+            <name>I.V43(9)</name>
             </Harmony>
           <StaffText>
             <text><font size="11.2544"></font><font face="Plantin MT Std"></font>marcato la melodia</text>
