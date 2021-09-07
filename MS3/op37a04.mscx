@@ -11893,7 +11893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/ii</name>
+            <name>I.#viio43/ii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11993,7 +11993,7 @@
             </KeySig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V65{</name>
+            <name>V65{</name>
             </Harmony>
           <Dynamic>
             <subtype>p</subtype>
