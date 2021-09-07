@@ -7608,7 +7608,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[I(4)/V}</name>
+            <name>V[V(4)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7623,7 +7623,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V|HC</name>
+            <name>V|HC</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
