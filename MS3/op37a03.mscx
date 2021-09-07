@@ -8569,7 +8569,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)-I64</name>
+            <name>V(64)-i64</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
