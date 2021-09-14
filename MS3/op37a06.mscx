@@ -16328,7 +16328,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65(b6)/V</name>
+            <name>viio65(b6)/V-vii%43/iii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16361,7 +16361,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/V</name>
+            <name>viio65/V-viio43/iii</name>
             </Harmony>
           </voice>
         </Measure>
@@ -16370,6 +16370,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio43/V}</name>
+            <offset x="0.186002" y="7.04944"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
