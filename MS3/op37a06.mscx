@@ -14626,6 +14626,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>|IAC</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
