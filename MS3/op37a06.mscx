@@ -12072,7 +12072,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-viio/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12109,7 +12109,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-vii%7/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
