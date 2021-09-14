@@ -2160,8 +2160,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-1.27349</y1>
-              <y2>-1.02349</y2>
+              <y1>-1.13399</y1>
+              <y2>-0.883987</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -12930,14 +12930,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
-              <pitch>46</pitch>
-              <tpc>12</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -12957,10 +12957,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
