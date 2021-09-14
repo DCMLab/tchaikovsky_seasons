@@ -11400,7 +11400,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[V]</name>
+            <name>I[V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11497,7 +11497,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6]</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
