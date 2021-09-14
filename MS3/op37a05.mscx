@@ -11309,7 +11309,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iii.ii%43</name>
+            <name>ii%43/iv</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -11361,7 +11361,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)}</name>
+            <name>V(4)/iv}</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11371,7 +11371,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC</name>
+            <name>V/iv|HC</name>
             </Harmony>
           </voice>
         <voice>
@@ -11419,7 +11419,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>i/iv{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -11468,7 +11468,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v/iii.iv6</name>
+            <name>iv6/v</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -11525,7 +11525,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V/v</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -11552,7 +11552,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11581,7 +11581,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(4)}</name>
+            <name>i(4)/v}</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -11608,7 +11608,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
