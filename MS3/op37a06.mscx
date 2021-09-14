@@ -18887,7 +18887,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18926,9 +18926,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <Fingering>
-                <text>4</text>
-                </Fingering>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
