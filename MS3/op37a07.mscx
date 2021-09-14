@@ -8216,7 +8216,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V43</name>
+            <name>vi.Fr6</name>
             <offset x="-3.39307" y="-4.54618"/>
             </Harmony>
           <Chord>
@@ -8237,7 +8237,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)}</name>
+            <name>V(4)}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -8271,7 +8271,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -8322,7 +8322,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.V43{</name>
+            <name>V43{</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
