@@ -162,7 +162,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.364</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
@@ -20683,15 +20683,15 @@
             <offset x="0" y="2.58651"/>
             <durationType>eighth</durationType>
             </Rest>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(#4)</name>

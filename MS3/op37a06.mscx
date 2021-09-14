@@ -162,7 +162,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.364</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
@@ -15532,7 +15532,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2(2)/V</name>
+            <name>viio2(4)/V</name>
             <offset x="0" y="-2.32786"/>
             </Harmony>
           </voice>
