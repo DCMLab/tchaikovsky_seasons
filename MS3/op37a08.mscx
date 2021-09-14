@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision/>
+  <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -50,6 +51,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
       <musicalTextFont>Leland Text</musicalTextFont>
@@ -148,20 +151,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.251</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Adrian Nagel</metaTag>
+    <metaTag name="annotators">Adrian Nagel (2.1.1), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1876</metaTag>
     <metaTag name="composed_start">1876</metaTag>
     <metaTag name="composer">Tchaikovsky Seasons No.8</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-11-29</metaTag>
-    <metaTag name="harmony_version">2.1.1</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -15867,20 +15869,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -16831,20 +16833,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -16962,15 +16964,15 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i.i6{</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.i6{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -17365,15 +17367,15 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%7</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -17497,16 +17499,16 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6{</name>
-            <offset x="0" y="-6.46651"/>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6{</name>
+            <offset x="0" y="-6.46651"/>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -18044,20 +18046,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio2</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio2</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -18532,20 +18534,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI.I[vii%2</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI.I[vii%2</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -19645,20 +19647,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(6)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(6)</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -20092,20 +20094,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III.V6</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III.V6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -20911,20 +20913,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
@@ -21427,20 +21429,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -21860,20 +21862,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -22120,15 +22122,15 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -22494,21 +22496,21 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i}</name>
-            <offset x="0" y="-5.93863"/>
-            </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i}</name>
+            <offset x="0" y="-5.93863"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -22836,20 +22838,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi7</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -23250,20 +23252,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii2-V2(#2)/V</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii2-V2(#2)/V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -23688,20 +23690,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV.V65{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV.V65{</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -24114,20 +24116,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(#4)}</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(#4)}</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -24509,20 +24511,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I{</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I{</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -24887,20 +24889,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio43(2)-ii%65</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio43(2)-ii%65</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -25345,20 +25347,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(6)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(6)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -25861,20 +25863,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(94)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(94)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -26783,20 +26785,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(6)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(6)</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -27227,20 +27229,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i[i</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i[i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -27743,20 +27745,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi%2-V(94)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#vi%2-V(94)</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -27967,15 +27969,15 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i.i6{</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.i6{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -28376,15 +28378,15 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%7</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -28498,16 +28500,16 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6{</name>
-            <offset x="0" y="-6.46651"/>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6{</name>
+            <offset x="0" y="-6.46651"/>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -29450,20 +29452,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv.i[#viio2</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv.i[#viio2</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -31000,20 +31002,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi%2-V(94)</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#vi%2-V(94)</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -31612,20 +31614,20 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65</name>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%65</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -32282,21 +32284,21 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio</name>
-            <offset x="0" y="-6.72748"/>
-            </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio</name>
+            <offset x="0" y="-6.72748"/>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -33083,15 +33085,15 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             <autoplace>0</autoplace>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -33292,21 +33294,21 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <offset x="0" y="-7.25833"/>
-            </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            <autoplace>0</autoplace>
-            </Clef>
           <KeySig>
             <autoplace>0</autoplace>
             <accidental>2</accidental>
             <mode>major</mode>
             </KeySig>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            <autoplace>0</autoplace>
+            </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <offset x="0" y="-7.25833"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
