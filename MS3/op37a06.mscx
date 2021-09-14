@@ -19590,7 +19590,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I/III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19655,7 +19655,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM65</name>
+            <name>VIM65-IVM65/III</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -19708,7 +19708,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-vii%7/III</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
