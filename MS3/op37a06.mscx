@@ -3369,6 +3369,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         <voice>
           <Chord>
@@ -13934,6 +13937,12 @@
             <harmonyType>1</harmonyType>
             <name>#viio43</name>
             </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         <voice>
           <Chord>
