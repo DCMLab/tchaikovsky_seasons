@@ -15549,7 +15549,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6}</name>
+            <name>V6|HC}</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
