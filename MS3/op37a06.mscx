@@ -14963,7 +14963,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)-I64</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
