@@ -1380,6 +1380,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="1.16612" y="3.5507"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -15908,7 +15913,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.viio65</name>
+            <name>Ger6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15924,6 +15929,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio43/V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -15939,7 +15948,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V43/V</name>
             </Harmony>
           </voice>
         </Measure>
@@ -15947,7 +15956,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15967,7 +15976,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V43/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15988,7 +15997,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I/V}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
