@@ -12488,7 +12488,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V2-ii6(4)</name>
+            <name>III.V2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12515,10 +12515,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
