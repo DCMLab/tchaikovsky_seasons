@@ -1028,15 +1028,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -15422,15 +15413,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -15665,7 +15647,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i]}</name>
+            <name>i]|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
