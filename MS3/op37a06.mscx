@@ -15073,7 +15073,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV+64</name>
+            <name>IV+64-#viio7(4)/ii</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -15115,7 +15115,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2</name>
+            <name>iii2-ii(94)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
