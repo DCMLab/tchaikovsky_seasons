@@ -11985,7 +11985,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12045,7 +12045,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM65</name>
+            <name>VIM65-IVM65/III</name>
+            <offset x="0" y="5.91343"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
