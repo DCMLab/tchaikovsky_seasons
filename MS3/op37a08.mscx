@@ -15795,7 +15795,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2-V(94)</name>
+            <name>V(#94)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -15833,7 +15833,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
