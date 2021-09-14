@@ -2673,15 +2673,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -17257,7 +17248,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi-I(6)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17273,6 +17264,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(b6)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -17465,15 +17460,6 @@
         </Measure>
       <Measure>
         <voice>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI.I[vii%2</name>
