@@ -2939,15 +2939,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -17910,7 +17901,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7}</name>
+            <name>V7|HC}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17950,15 +17941,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
