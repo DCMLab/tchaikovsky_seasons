@@ -10844,7 +10844,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iii.ii%43</name>
+            <name>ii%43/iv</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -10896,7 +10896,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)}</name>
+            <name>V(4)/iv}</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -10906,7 +10906,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC</name>
+            <name>V/iv|HC</name>
             </Harmony>
           </voice>
         <voice>
@@ -10954,7 +10954,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii.ii%65{</name>
+            <name>ii%65{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
