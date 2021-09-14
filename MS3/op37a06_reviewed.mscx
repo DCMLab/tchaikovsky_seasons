@@ -182,7 +182,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Johannes Hentschel</metaTag>
+    <metaTag name="reviewers">Johannes Hentschel, AN</metaTag>
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source">http://musescore.com/user/5891891/scores/3057501</metaTag>
     <metaTag name="translator"></metaTag>
@@ -12537,12 +12537,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III.V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III.V2-ii6(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12569,11 +12563,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
@@ -14725,6 +14714,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|IAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14769,11 +14764,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>|IAC</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -15703,7 +15693,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2(2)/V</name>
+            <name>viio2(4)/V</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.32786"/>
             </Harmony>
@@ -20683,15 +20673,15 @@
             <offset x="0" y="2.58651"/>
             <durationType>eighth</durationType>
             </Rest>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(#4)</name>
