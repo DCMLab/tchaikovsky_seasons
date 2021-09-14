@@ -1374,15 +1374,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -15881,15 +15872,6 @@
         </Measure>
       <Measure>
         <voice>
-          <KeySig>
-            <autoplace>0</autoplace>
-            <accidental>2</accidental>
-            <mode>major</mode>
-            </KeySig>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
@@ -15914,6 +15896,16 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv65</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V.viio65</name>
