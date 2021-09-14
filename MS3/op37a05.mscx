@@ -152,7 +152,7 @@
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.251</Spatium>
       </Style>
-    <showInvisible>1</showInvisible>
+    <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
@@ -14592,7 +14592,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.ii%43</name>
+            <name>ii%43/iv</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -14645,7 +14645,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)}</name>
+            <name>V(4)/iv}</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -14655,7 +14655,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -14710,7 +14710,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>i/iv{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -14750,7 +14750,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>v6/iv</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
