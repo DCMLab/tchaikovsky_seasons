@@ -12315,10 +12315,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -12964,10 +12960,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -29010,10 +29002,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65</name>
@@ -29382,6 +29370,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -29394,7 +29386,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv-V2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29412,7 +29404,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-V43</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29466,7 +29458,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iioV2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29488,7 +29480,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio</name>
+            <name>#viio-V65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29594,7 +29586,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-V43</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29648,7 +29640,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-V43</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29666,7 +29658,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio</name>
+            <name>#viio-V65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29800,7 +29792,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
