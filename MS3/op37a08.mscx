@@ -22956,7 +22956,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.V43</name>
+            <name>V43/IV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -22999,7 +22999,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(#2)</name>
+            <name>I(#2)/IV</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -23023,7 +23023,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I/IV</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
