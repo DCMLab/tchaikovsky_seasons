@@ -23056,7 +23056,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V43/iii</name>
+            <name>viio7(^4)/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23076,7 +23076,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/iii-viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
