@@ -7674,10 +7674,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -22854,7 +22850,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43}</name>
+            <name>viio43|HC}</name>
             </Harmony>
           </voice>
         <voice>
