@@ -23628,7 +23628,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -23901,7 +23901,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V]}</name>
+            <name>V]|HC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
