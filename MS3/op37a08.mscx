@@ -19752,6 +19752,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -19764,7 +19768,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv-V2</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19783,7 +19787,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-V43</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -19839,7 +19843,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-V42</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -19861,7 +19865,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio</name>
+            <name>#viio-V65</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19971,7 +19975,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-V43</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20027,7 +20031,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-V43</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20046,7 +20050,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio</name>
+            <name>#viio-V65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
