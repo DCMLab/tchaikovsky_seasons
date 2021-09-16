@@ -25569,9 +25569,19 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.viio65</name>
+            <name>iv65</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25587,6 +25597,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.viio65</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -25651,7 +25665,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
