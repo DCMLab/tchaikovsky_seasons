@@ -21598,7 +21598,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>V/III.V65</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -21619,7 +21619,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(7)-IVM7</name>
+            <name>vii%7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
