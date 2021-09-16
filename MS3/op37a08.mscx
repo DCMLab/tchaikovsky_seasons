@@ -28389,6 +28389,16 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv65</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6</name>
@@ -28437,7 +28447,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2-V(94)</name>
+            <name>V(#94)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -28478,7 +28488,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
