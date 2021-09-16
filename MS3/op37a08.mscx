@@ -5502,15 +5502,15 @@
               <tpc>19</tpc>
               </Note>
             <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
-              <pitch>75</pitch>
-              <tpc>23</tpc>
-              </Note>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
+              <pitch>77</pitch>
+              <tpc>25</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5524,8 +5524,8 @@
               <tpc>19</tpc>
               </Note>
             <Note>
-              <pitch>75</pitch>
-              <tpc>23</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             <Note>
               <pitch>78</pitch>
@@ -5539,8 +5539,8 @@
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>75</pitch>
-              <tpc>23</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             <Note>
               <pitch>78</pitch>
@@ -5557,8 +5557,8 @@
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>75</pitch>
-              <tpc>23</tpc>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
               </Note>
             <Note>
               <pitch>78</pitch>
