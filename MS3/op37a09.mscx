@@ -14141,7 +14141,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii64</name>
+            <name>iii64-I(0)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
