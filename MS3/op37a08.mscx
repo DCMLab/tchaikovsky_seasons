@@ -21655,7 +21655,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii2-V2(#2)/V</name>
+            <name>V2(#2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21676,10 +21676,6 @@
               <tpc>27</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VII.V2</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -21697,6 +21693,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
