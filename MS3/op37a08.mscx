@@ -26650,7 +26650,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI{</name>
+            <name>VI{-i(6){</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
