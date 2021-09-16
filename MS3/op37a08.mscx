@@ -20360,7 +20360,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21270,7 +21270,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi7-ii7/V</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -21294,7 +21294,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi-ii/V</name>
             </Harmony>
           </voice>
         <voice>
