@@ -30406,7 +30406,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64(9)</name>
+            <name>i64(^2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
