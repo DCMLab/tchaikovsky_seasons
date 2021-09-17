@@ -21233,7 +21233,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#VI[I64-#VI[V(64)</name>
+            <name>V6(6#2)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -21266,14 +21266,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V65(#2)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)]</name>
+            <name>V6(64#2)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -21368,7 +21368,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#VI[I64-#VI[V(64)</name>
+            <name>V6(6#2)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -21398,14 +21398,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V65(#2)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)]</name>
+            <name>V6(64#2)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
