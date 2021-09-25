@@ -15076,6 +15076,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii7</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
