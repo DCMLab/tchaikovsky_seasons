@@ -14508,7 +14508,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%2</name>
+            <name>ii%2-i(642)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14556,7 +14556,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC</name>
             </Harmony>
           </voice>
         </Measure>
