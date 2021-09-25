@@ -21539,7 +21539,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/ii</name>
+            <name>#viio2/ii-V65(6#4#2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21561,7 +21561,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65}</name>
+            <name>V65|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
