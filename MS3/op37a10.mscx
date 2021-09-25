@@ -11846,7 +11846,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.VI(4){</name>
+            <name>i.VI(4){-IV(4)/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11868,7 +11868,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(6)</name>
+            <name>VI(6)-IV(6)/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11890,14 +11890,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI-IV/III</name>
             </Harmony>
           <location>
             <fractions>1/12</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>iv7-ii7/III</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1.29326"/>
