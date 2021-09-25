@@ -20260,7 +20260,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43}</name>
+            <name>V43|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21156,7 +21156,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
