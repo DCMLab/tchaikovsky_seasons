@@ -14564,7 +14564,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%2{</name>
+            <name>ii%2{-i(964){</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14602,7 +14602,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%2</name>
+            <name>ii%2-i(964)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
