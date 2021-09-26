@@ -19082,7 +19082,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/iii{</name>
+            <name>I(6#4#2){-viio43/V{</name>
             <offset x="-0.558436" y="-6.9541"/>
             </Harmony>
           <Rest>
@@ -19140,7 +19140,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2(+6)/iii</name>
+            <name>I(+76#4#2)-viio43(+4)/V</name>
             <offset x="-0.186146" y="-6.9541"/>
             </Harmony>
           <Rest>
@@ -19167,7 +19167,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/iii</name>
+            <name>I(6#4#2)-viio43/V</name>
             <offset x="0.186146" y="-6.15254"/>
             </Harmony>
           <Chord>
@@ -19305,7 +19305,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(b3)/V{</name>
+            <name>I64(b6#4#2){-Gero3{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -19357,7 +19357,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(+6b3)/V</name>
+            <name>I64(+9b6#4#2)-Gero3(+6)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -19379,7 +19379,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(b3)/V</name>
+            <name>I64(b6#4#2)-Gero3</name>
             <offset x="0" y="-9.23787"/>
             </Harmony>
           <Chord>
