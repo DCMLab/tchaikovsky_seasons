@@ -15533,7 +15533,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>V43(4)/V</name>
             </Harmony>
           </voice>
         <voice>
@@ -15598,7 +15598,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)}</name>
+            <name>V(4)|HC}</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
