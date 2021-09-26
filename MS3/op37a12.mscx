@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -18648,7 +18649,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/iii</name>
+            <name>I(6#4#2)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18708,7 +18709,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2(+6)/iii</name>
+            <name>I(+76#4#2)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18734,7 +18735,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/iii</name>
+            <name>I(6#4#2)</name>
             <offset x="0" y="-2.24348"/>
             </Harmony>
           <Chord>
