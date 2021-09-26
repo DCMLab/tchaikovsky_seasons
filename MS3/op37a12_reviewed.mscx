@@ -12419,7 +12419,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vi(#2)}</name>
+            <name>V(#2)/vi}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -12894,7 +12894,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/ii(#2)}</name>
+            <name>V(#2)/ii}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14923,7 +14923,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|{PAC</name>
+            <name>I|PAC</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -14956,7 +14956,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI.I</name>
+            <name>bVI.I{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
