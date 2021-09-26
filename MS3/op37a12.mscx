@@ -12420,7 +12420,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.bvii{</name>
+            <name>ii{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12460,7 +12460,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii2</name>
+            <name>ii2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12508,7 +12508,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12562,7 +12562,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(#2)}</name>
+            <name>V/ii(#2)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12593,7 +12593,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V/ii</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12620,7 +12620,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.V7{</name>
+            <name>V7/ii{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12671,7 +12671,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)}</name>
+            <name>ii(9)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12702,7 +12702,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>ii</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12729,7 +12729,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.ii6(#7){</name>
+            <name>ii6(#7){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
