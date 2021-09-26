@@ -14690,7 +14690,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|{PAC</name>
+            <name>I|PAC</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -14717,7 +14717,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI.I</name>
+            <name>bVI.I{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
