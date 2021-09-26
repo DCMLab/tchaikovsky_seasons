@@ -18649,7 +18649,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(6#4#2)</name>
+            <name>I(6#4#2){-viio43/V{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18709,7 +18709,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(+76#4#2)</name>
+            <name>I(+76#4#2)-viio43(+4)/V</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18735,7 +18735,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(6#4#2)</name>
+            <name>I(6#4#2)-viio43/V</name>
             <offset x="0" y="-2.24348"/>
             </Harmony>
           <Chord>
@@ -18865,7 +18865,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(b3)/V{</name>
+            <name>I(b6#4#2){</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
