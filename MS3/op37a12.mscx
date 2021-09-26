@@ -18574,7 +18574,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7]}</name>
+            <name>V7]|HC}</name>
             </Harmony>
           </voice>
         <voice>
@@ -18596,10 +18596,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>@none</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
