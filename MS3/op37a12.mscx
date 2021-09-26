@@ -18865,7 +18865,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(b6#4#2){</name>
+            <name>I64(b6#4#2){-Gero3{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18917,7 +18917,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(+6b3)/V</name>
+            <name>I64(+9b6#4#2)-Gero3(+6)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18939,7 +18939,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(b3)/V</name>
+            <name>I64(b6#4#2)-Gero3</name>
             <offset x="-1.87545" y="-4.83464"/>
             </Harmony>
           <Chord>
