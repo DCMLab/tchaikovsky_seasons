@@ -14540,7 +14540,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#V.I{</name>
+            <name>bVI.I</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
