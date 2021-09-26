@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -5575,10 +5574,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <TimeSig>
-            <sigN>3</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         </Measure>
       <Measure>
@@ -8705,6 +8700,13 @@
           </voice>
         </Measure>
       <Measure>
+        <Jump>
+          <style>Repeat Text Right</style>
+          <text>D.C. al Coda</text>
+          <jumpTo>start</jumpTo>
+          <playUntil>coda</playUntil>
+          <continueAt>codab</continueAt>
+          </Jump>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14708,10 +14710,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <TimeSig>
-            <sigN>3</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         </Measure>
       <Measure>
