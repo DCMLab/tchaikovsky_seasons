@@ -12336,7 +12336,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vi(#2)}</name>
+            <name>V(#2)/vi}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12751,7 +12751,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/ii(#2)}</name>
+            <name>V(#2)/ii}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
