@@ -13156,7 +13156,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/iii</name>
+            <name>I(6#4#2)-IV64</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -13185,7 +13185,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2(+6)/iii</name>
+            <name>I(+76#4#2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13208,7 +13208,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/iii</name>
+            <name>I(6#4#2)</name>
             <offset x="0" y="-8.18212"/>
             </Harmony>
           <Spanner type="HairPin">
