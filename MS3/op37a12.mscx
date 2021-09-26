@@ -15816,7 +15816,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>iii/bVI.V(#2)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -15838,7 +15838,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii.V</name>
+            <name>V</name>
             <offset x="-1.88251" y="-5.46704"/>
             </Harmony>
           </voice>
@@ -15891,7 +15891,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
