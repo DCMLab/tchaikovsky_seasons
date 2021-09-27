@@ -28,7 +28,7 @@ Annotations by Adrian Nagel, reviewed by JH
 |op37a02  |     169|   292|2.1.1   |Adrian Nagel                             |Johannes Hentschel    |
 |op37a03  |      46|   119|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
 |op37a04  |      86|   210|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
-|op37a05  |      88|   193|2.1.1   |Adrian Nagel                             |Johannes Hentschel    |
+|op37a05  |      88|   193|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
 |op37a06  |      99|   258|2.1.1   |Adrian Nagel                             |Johannes Hentschel    |
 |op37a07  |      56|   181|2.1.1   |Adrian Nagel                             |Johannes Hentschel    |
 |op37a08  |     198|   496|2.1.1   |Adrian Nagel                             |Johannes Hentschel    |
