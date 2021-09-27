@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -163,7 +162,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Johannes Hentschel</metaTag>
+    <metaTag name="reviewers">Johannes Hentschel, AN</metaTag>
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source">http://musescore.com/user/20994881/scores/5333841</metaTag>
     <metaTag name="translator"></metaTag>
@@ -11344,7 +11343,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.VI(4){-IV(4)/III</name>
+            <name>i.VI(4){-IV(4)/III{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -11925,7 +11924,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.VI(4){-IV(4)/III</name>
+            <name>i.VI(4){-IV(4)/III{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14625,7 +14624,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64{-i(64)</name>
+            <name>iv64{-i(64){</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
