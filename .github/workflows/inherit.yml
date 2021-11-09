@@ -38,8 +38,8 @@ jobs:
       - name: Copy assignees and tags from referenced issues
         if: ${{ github.event_name != 'issue_comment' }}
         run: |
-          python .github/workflows/pr_tags.py ${{ github.repository }} ${{ secrets.PAC }} -p ${{ github.event.pull_request.number }}
+          python .github/workflows/inherit.py ${{ github.repository }} ${{ secrets.PAC }} -p ${{ github.event.pull_request.number }}
       - name: Copy assignees and tags from referenced issues
         if: ${{ github.event.issue.pull_request }}
         run: |
-          python .github/workflows/pr_tags.py ${{ github.repository }} ${{ secrets.PAC }} -p ${{ github.event.issue.number }}
+          python .github/workflows/inherit.py ${{ github.repository }} ${{ secrets.PAC }} -p ${{ github.event.issue.number }}
