@@ -1,0 +1,45 @@
+name: inherit
+
+on:
+  pull_request:
+  issue_comment:
+    types: [created, edited]
+
+
+
+
+jobs:
+  inherit:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'issue_comment' || github.event.issue.pull_request }}
+    steps:
+      - name: Outputs
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: |
+          echo "$GITHUB_CONTEXT"
+          echo "event_name:" ${{ github.event_name }}
+          echo "is PR: " ${{ github.event.issue.pull_request }}
+          echo "sha: " ${{ github.event.pull_request.head.sha }}
+          echo "ref: " ${{ github.event.pull_request.head.ref }}
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install github3.py
+      - name: Checkout PR
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Print event type
+        run: echo ${{ github.event.type }}
+      - name: Copy assignees and tags from referenced issues
+        if: ${{ github.event_name != 'issue_comment' }}
+        run: |
+          python .github/workflows/pr_tags.py ${{ github.repository }} ${{ secrets.PAC }} -p ${{ github.event.pull_request.number }}
+      - name: Copy assignees and tags from referenced issues
+        if: ${{ github.event.issue.pull_request }}
+        run: |
+          python .github/workflows/pr_tags.py ${{ github.repository }} ${{ secrets.PAC }} -p ${{ github.event.issue.number }}
