@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -12358,7 +12359,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
+            <name>V7/III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -12418,7 +12419,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(#2)/vi}</name>
+            <name>III(#2)}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -12455,7 +12456,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vi</name>
+            <name>III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -12833,7 +12834,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/vi</name>
+            <name>V7/III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -12893,7 +12894,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(#2)/ii}</name>
+            <name>III(#2)}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -12930,7 +12931,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/ii</name>
+            <name>III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -19240,7 +19241,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(b6#4#2){-Gero3{</name>
+            <name>I64(b6#4#2){-Ger7{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -19298,7 +19299,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(+9b6#4#2)-Gero3(+6)</name>
+            <name>I64(+9b6#4#2)-Ger7(+6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -19326,7 +19327,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(b6#4#2)-Gero3</name>
+            <name>I64(b6#4#2)-Ger7</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.87545" y="-4.83464"/>
             </Harmony>
@@ -19716,7 +19717,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(b6#4#2){-Gero3{</name>
+            <name>I64(b6#4#2){-Ger7{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -19774,7 +19775,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(+9b6#4#2)-Gero3(+6)</name>
+            <name>I64(+9b6#4#2)-Ger7(+6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -19802,7 +19803,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(b6#4#2)-Gero3</name>
+            <name>I64(b6#4#2)-Ger7</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-9.23787"/>
             </Harmony>
@@ -19958,7 +19959,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Gero3{</name>
+            <name>Ger7{</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.23374" y="-8.25712"/>
             </Harmony>
@@ -20054,7 +20055,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Gero3</name>
+            <name>Ger7</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-4.0952" y="-6.76796"/>
             </Harmony>
