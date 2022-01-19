@@ -82,7 +82,7 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 81	81	2	2/4	1/2	0							82
 82	82	2	2/4	1/2	0							83
 83	83	2	2/4	1/2	0							84
-84	84	2	2/4	1/2	0				double	page		85
+84	84	2	2/4	1/2	0					page		85
 85	85	2	2/4	1/2	0						start	86
 86	86	2	2/4	1/2	0							87
 87	87	2	2/4	1/2	0							88
