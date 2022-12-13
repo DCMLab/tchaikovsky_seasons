@@ -1,8 +1,22 @@
-# annotation_workflow_template
+# Tchaikovsky - The Seasons
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
+## URTEXT SCAN
 
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+* IMSLP19125-PMLP02716-Tchaik_TH135.pdf downloaded from http://hz.imslp.info/files/imglnks/usimg/4/4c/IMSLP19125-PMLP02716-Tchaik_TH135.pdf
+* Editor:	Anatoly Drozdov (1883–1950)
+* Complete Collected Works, vol.52 (Полное собрание сочинений).
+* Moscow: Muzgiz, 1948. Plate M. 18608 Г.
+* Reprinted: New York: E.F. Kalmus, n.d.(1965). Piano Series No.4062
+
+## SOURCE FILES
+
+* No. 1: https://musescore.com/tumoxep/scores/3444321
+* No. 2: https://musescore.com/tumoxep/scores/3448281
+* No. 3: https://musescore.com/tumoxep/scores/3462386
+* No. 6: https://musescore.com/user/5891891/scores/3057501
+* No. 10: https://musescore.com/user/20994881/scores/5333841
+
+* Nos. 04, 05, 07-09, 11, 12 transcribed by Tom Schreyer
 
 
 # Overview
@@ -17,6 +31,6 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |op37a07  |      56|   179|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
 |op37a08  |     198|   514|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
 |op37a09  |      90|   368|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
-|op37a10  |      56|   189|2.1.1   |Adrian Nagel                             |Johannes Hentschel    |
+|op37a10  |      56|   193|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
 |op37a11  |      83|   168|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
 |op37a12  |     176|   261|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
