@@ -172,6 +172,7 @@
     <metaTag name="annotators">Adrian Nagel (2.1.1), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1876</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
     <metaTag name="composed_start">1876</metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
