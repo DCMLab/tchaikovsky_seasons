@@ -242,15 +242,22 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>October</text>
+          <text>10. October: Autumn Song</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>P. Tschaikowsky, Op. 37a No. 10</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>Autumn Song from The Seasons</text>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Осень, обсыпается весь наш бедный сад,
+Листья пожелтелые по ветру летят».
+
+(Толстой)</text>
           </Text>
         </VBox>
       <Measure>

@@ -260,18 +260,24 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <offset x="-1.35773" y="0.0888767"/>
-          <text><font size="12"></font>P. Tchaikovsky Op. 37a, №1</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <size>10</size>
-          <text><font size="24"></font>January</text>
+          <text>1. January: At the Fireside</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <size>10</size>
-          <text><font size="14"></font>By the fireside</text>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«И мирной неги уголок
+Ночь сумраком одела,
+В камине гаснет огонёк,
+И свечка нагорела».
+
+(Пушкин)</text>
           </Text>
         </VBox>
       <Measure>

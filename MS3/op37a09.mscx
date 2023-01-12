@@ -194,16 +194,25 @@
         <height>8.6</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <text><font size="10.3775"></font><font face="Plantin MT Std"></font>Tchaikovsky Seasons No.9</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <text><font size="20.7549"></font><font face="Plantin MT Std"></font>No. 9</text>
+          <text>9. September: Hunting Song</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Пора, пора! Рога трубят;
+Псари в охотничьих уборах
+Чем свет уж на конях сидят;
+Борзые прыгают на сворах».
+
+(Пушкин)</text>
           </Text>
         </VBox>
       <Measure>

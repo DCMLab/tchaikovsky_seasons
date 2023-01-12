@@ -260,20 +260,24 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <offset x="-0.782911" y="-1.80234"/>
-          <text><font size="12"></font>P. Tchaikovsky Op. 37a, №3</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <size>10</size>
-          <offset x="-0.264583" y="5.29167"/>
-          <text><font size="24"></font>March</text>
+          <text>3. March: Song of the Lark</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <size>10</size>
-          <offset x="-0.264583" y="13.7042"/>
-          <text><font size="14"></font>(Song of the lark) </text>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Поле зыблется цветами,
+В небе льются света волны,
+Вешних жаворонков пенья
+Голубые бездны полны».
+
+(Майков)</text>
           </Text>
         </VBox>
       <Measure>

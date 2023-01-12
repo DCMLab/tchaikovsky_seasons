@@ -253,33 +253,28 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>23.8228</height>
+        <height>27.9184</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <offset x="-0.253729" y="-1.14178"/>
-          <text><font size="12"></font>Pyotr Ilyich Tchaikovsky</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <size>10</size>
-          <text><font size="24"></font>The Seasons Op. 37a</text>
+          <text>6. June: Barcarolle</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <size>6</size>
-          <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
-          <offset x="-2.38479" y="5.47654"/>
-          <text><font size="14"/>Nº 6 June—Barcarolle</text>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
           </Text>
         <Text>
           <style>Lyricist</style>
-          <offset x="70.8375" y="0.671446"/>
-          <text>Выйдем на берег, там волны
+          <text>«Выйдем на берег, там волны
 Ноги нам будут лобзать,
-Звезды с таинственной грустью
-Будут над нами снять
-                                          ПЛЕЩЕЕВ</text>
+Звёзды с таинственной грустью
+Будут над нами сиять».
+
+(Плещеев)</text>
           </Text>
         </VBox>
       <Measure>
@@ -5304,6 +5299,7 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -5313,7 +5309,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
