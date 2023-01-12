@@ -1,7 +1,7 @@
-Warnings encountered during the last execution of ms3 review (v1.0.4)
+Warnings encountered during the last execution of ms3 review (v1.1.0)
 =====================================================================
 
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.tchaikovsky_seasons.op37a09 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4940) check_phrase_annotations():
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.tchaikovsky_seasons.op37a09 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
 	            1a         {             6a         }
@@ -40,7 +40,7 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.tchaikovsky_seasons.op37a09 -- 
 	           81a        }{            89a         }
 	           87a         {            90a         }
 	           89a         {            NaN       NaN
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.tchaikovsky_seasons.op37a10 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4940) check_phrase_annotations():
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.tchaikovsky_seasons.op37a10 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
 	            1a         {             4a         }

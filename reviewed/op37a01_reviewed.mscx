@@ -173,15 +173,17 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1876</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
-    <metaTag name="composed_start">1876</metaTag>
-    <metaTag name="composer">P. Tchaikovsky</metaTag>
+    <metaTag name="composed_start">1875</metaTag>
+    <metaTag name="composer">Pyotr Ilyich Tchaikovsky</metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2018-11-29</metaTag>
+    <metaTag name="creationDate">11/29/18</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/The_Seasons,_Op.37a_(Tchaikovsky,_Pyotr)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">January: At the Fireside</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/6460a645-9844-3042-960a-e0eb34339470</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Linux</metaTag>
@@ -190,8 +192,10 @@
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source">http://musescore.com/user/12839876/scores/3444321</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">January</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/183857288</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q2914902</metaTag>
+    <metaTag name="workNumber">Op. 37a</metaTag>
+    <metaTag name="workTitle">The Seasons</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">

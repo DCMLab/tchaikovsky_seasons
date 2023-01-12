@@ -151,15 +151,17 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1876</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
-    <metaTag name="composed_start">1876</metaTag>
+    <metaTag name="composed_start">1875</metaTag>
     <metaTag name="composer">Pyotr Ilyich Tchaikovsky</metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2018-11-28</metaTag>
+    <metaTag name="creationDate">11/28/18</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/The_Seasons,_Op.37a_(Tchaikovsky,_Pyotr)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">10</metaTag>
+    <metaTag name="movementTitle">October: Autumn Song</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/b03dde30-6ae2-32e8-a067-58d8932bb701</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
@@ -167,8 +169,10 @@
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source">http://musescore.com/user/20994881/scores/5333841</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">October</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/183857288</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q2914902</metaTag>
+    <metaTag name="workNumber">Op. 37a</metaTag>
+    <metaTag name="workTitle">The Seasons</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
