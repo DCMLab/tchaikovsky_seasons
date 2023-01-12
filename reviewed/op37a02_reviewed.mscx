@@ -260,18 +260,22 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <offset x="0" y="-2.22295"/>
-          <text><font size="12"></font>P.Tchaikovsky Op. 37a, №2</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <size>10</size>
-          <text><font size="24"></font>February</text>
+          <text>2. February: Carnaval</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <size>10</size>
-          <text><font size="14"></font>(Carnival)</text>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Скоро масленицы бойкой
+Закипит широкий пир».
+
+(Вяземский)</text>
           </Text>
         </VBox>
       <Measure>

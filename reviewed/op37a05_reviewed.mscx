@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -249,19 +249,26 @@
     <Staff id="1">
       <VBox>
         <height>6.4</height>
-        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="-0.542209" y="-3.1177"/>
-          <text><font size="10.3775"></font><font face="Plantin MT Std"></font>Tchaikovsky Seasons No. 5</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <text><font size="20.7549"></font><font face="Plantin MT Std"></font>No. 5</text>
+          <text>5. May: Starlight Nights</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Какая ночь! На всём какая нега!
+Благодарю, родной полночный край!
+Из царства льдов, из царства вьюг и снега,
+Как свеж и чист твой вылетает Май!»
+
+(Фет)</text>
           </Text>
         </VBox>
       <Measure>

@@ -251,17 +251,25 @@
         <height>9.3</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="0.105266" y="-0.888465"/>
-          <text><font size="10.3775"></font><font face="Plantin MT Std"></font>Tchaikovsky Seasons No.7</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <text><font size="20.7549"></font><font face="Plantin MT Std"></font>No. 7</text>
+          <text>7. July: Song of the Reaper</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Раззудись, плечо,
+Размахнись, рука!
+Ты пахни в лицо,
+Ветер с полудня!»
+
+(Кольцов)</text>
           </Text>
         </VBox>
       <Measure>
