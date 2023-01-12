@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -171,15 +170,17 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1876</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
-    <metaTag name="composed_start">1876</metaTag>
+    <metaTag name="composed_start">1875</metaTag>
     <metaTag name="composer">Pyotr Ilyich Tchaikovsky</metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2018-11-29</metaTag>
+    <metaTag name="creationDate">11/29/18</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/The_Seasons,_Op.37a_(Tchaikovsky,_Pyotr)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">6</metaTag>
+    <metaTag name="movementTitle">June: Barcarolle</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/97abe0e5-11f8-3080-b327-9210760a3376</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Linux</metaTag>
@@ -188,6 +189,8 @@
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source">http://musescore.com/user/5891891/scores/3057501</metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/183857288</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q2914902</metaTag>
     <metaTag name="workNumber">Op. 37a</metaTag>
     <metaTag name="workTitle">The Seasons</metaTag>
     <Part>
@@ -250,29 +253,28 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>22.346</height>
+        <height>27.9184</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <offset x="-0.253729" y="-1.14178"/>
-          <text><font size="12"></font>Pyotr Ilyich Tchaikovsky</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <size>10</size>
-          <text><font size="24"></font>The Seasons Op. 37a</text>
+          <text>6. June: Barcarolle</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <size>6</size>
-          <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
-          <offset x="-2.38479" y="5.47654"/>
-          <text><font size="14"></font>Nº 6 June—Barcarolle
-<font size="11"></font>Выйдем на берег, там волны
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Выйдем на берег, там волны
 Ноги нам будут лобзать,
-Звезды с таинственной грустью
-Будут над нами снять
-                                          ПЛЕЩЕЕВ</text>
+Звёзды с таинственной грустью
+Будут над нами сиять».
+
+(Плещеев)</text>
           </Text>
         </VBox>
       <Measure>
@@ -1921,8 +1923,13 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="3.23314"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -5010,7 +5017,12 @@
               <subtype>2</subtype>
               <endText></endText>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>

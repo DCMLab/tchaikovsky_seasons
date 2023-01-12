@@ -160,15 +160,17 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1876</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
-    <metaTag name="composed_start">1876</metaTag>
-    <metaTag name="composer">Tchaikovsky Seasons No.11</metaTag>
+    <metaTag name="composed_start">1875</metaTag>
+    <metaTag name="composer">Pyotr Ilyich Tchaikovsky</metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2018-11-29</metaTag>
+    <metaTag name="creationDate">11/29/18</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/The_Seasons,_Op.37a_(Tchaikovsky,_Pyotr)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">11</metaTag>
+    <metaTag name="movementTitle">November: Troika</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/432dd63f-4645-34ad-942d-1dd616bfaa08</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Linux</metaTag>
@@ -177,8 +179,10 @@
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">No. 11</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/183857288</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q2914902</metaTag>
+    <metaTag name="workNumber">Op. 37a</metaTag>
+    <metaTag name="workTitle">The Seasons</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -247,17 +251,25 @@
         <height>9.9</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="0.135552" y="-6.91316"/>
-          <text><font size="10.3775"></font><font face="Plantin MT Std"></font>Tchaikovsky Seasons No.11</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <text><font size="20.7549"></font><font face="Plantin MT Std"></font>No. 11</text>
+          <text>11. November: Troika</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Не гляди же с тоской на дорогу
+И за тройкой вослед не спеши,
+И тоскливую в сердце тревогу
+Поскорей навсегда заглуши!»
+
+(Некрасов)</text>
           </Text>
         </VBox>
       <Measure>

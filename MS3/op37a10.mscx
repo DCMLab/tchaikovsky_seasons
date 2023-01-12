@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision>3224f34</programRevision>
+  <programRevision></programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -151,15 +151,17 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1876</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
-    <metaTag name="composed_start">1876</metaTag>
+    <metaTag name="composed_start">1875</metaTag>
     <metaTag name="composer">Pyotr Ilyich Tchaikovsky</metaTag>
     <metaTag name="copyright"></metaTag>
-    <metaTag name="creationDate">2018-11-28</metaTag>
+    <metaTag name="creationDate">11/28/18</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/The_Seasons,_Op.37a_(Tchaikovsky,_Pyotr)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">10</metaTag>
+    <metaTag name="movementTitle">October: Autumn Song</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/b03dde30-6ae2-32e8-a067-58d8932bb701</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/19125</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
@@ -167,8 +169,10 @@
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source">http://musescore.com/user/20994881/scores/5333841</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">October</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/183857288</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q2914902</metaTag>
+    <metaTag name="workNumber">Op. 37a</metaTag>
+    <metaTag name="workTitle">The Seasons</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -238,15 +242,22 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>October</text>
+          <text>10. October: Autumn Song</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>P. Tschaikowsky, Op. 37a No. 10</text>
+          <text>Pyotr Ilyich Tchaikovsky</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>Autumn Song from The Seasons</text>
+          <text>from: <i>The Seasons</i>, op. 37a</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>«Осень, обсыпается весь наш бедный сад,
+Листья пожелтелые по ветру летят».
+
+(Толстой)</text>
           </Text>
         </VBox>
       <Measure>
@@ -9106,6 +9117,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
+                  <voices>1</voices>
                   <measures>-1</measures>
                   <fractions>1/2</fractions>
                   </location>
@@ -9114,7 +9126,6 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <voices>1</voices>
                   <measures>-1</measures>
                   <fractions>1/2</fractions>
                   </location>
@@ -11696,7 +11707,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(9){</name>
+            <name>I(9)}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
