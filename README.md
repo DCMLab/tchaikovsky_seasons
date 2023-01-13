@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/github/v/release/DCMLab/tchaikovsky_seasons?display_name=tag)
+[![DOI](https://zenodo.org/badge/383818974.svg)](https://zenodo.org/badge/latestdoi/383818974)
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/tchaikovsky_seasons)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
+
 <!-- TOC -->
 * [Pyotr Tchaikovsky - The Seasons](#pyotr-tchaikovsky---the-seasons)
   * [Getting the data](#getting-the-data)
