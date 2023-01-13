@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
 <!-- TOC -->
-* [Pyotr Tchaikovsky - The Seasons](#pyotr-tchaikovsky---the-seasons)
+* [Pyotr Tchaikovsky - The Seasons (A corpus of annotated scores)](#pyotr-tchaikovsky---the-seasons--a-corpus-of-annotated-scores-)
   * [Getting the data](#getting-the-data)
     * [With full version history](#with-full-version-history)
     * [Without full version history](#without-full-version-history)
@@ -24,7 +24,7 @@
 * [Overview](#overview)
 <!-- TOC -->
 
-# Pyotr Tchaikovsky - The Seasons
+# Pyotr Tchaikovsky - The Seasons (A corpus of annotated scores)
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within
 the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
@@ -41,7 +41,7 @@ that accompanies nine corpora grouped under the DOI [10.5281/zenodo.7483349](htt
 metadata now include URIs that identify the compositions in terms of
 the [Virtual International Authority File (VIAF)](https://viaf.org/), [Wikidata](https://www.wikidata.org), [IMSLP](https://imslp.org/)
 and [MusicBrainz](https://musicbrainz.org/). The data has been re-extracted from the scores
-using [ms3 1.1.1](https://pypi.org/project/ms3/) . Syntax errors in the phrase brackets have been corrected.
+using [ms3 1.1.1](https://pypi.org/project/ms3/). Syntax errors in the phrase brackets have been corrected.
 
 ## Getting the data
 
