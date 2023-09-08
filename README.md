@@ -190,7 +190,7 @@ Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0
 The file names listed in the [Overview](#overview) below refer to the 
 [12 pieces contained in op. 37](https://imslp.org/wiki/The_Seasons,_Op.37a_(Tchaikovsky,_Pyotr)).
 
-# Overview
+## Overview
 |file_name|measures|labels|standard|               annotators                |      reviewers       |
 |---------|-------:|-----:|--------|-----------------------------------------|----------------------|
 |op37a01  |     103|   313|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
@@ -207,4 +207,4 @@ The file names listed in the [Overview](#overview) below refer to the
 |op37a12  |     176|   261|2.3.0   |Adrian Nagel (2.1.1), John Heilig (2.3.0)|Johannes Hentschel, AN|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
