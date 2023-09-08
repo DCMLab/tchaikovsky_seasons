@@ -1,0 +1,885 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.tchaikovsky_seasons.op37a12
+	No metronome mark found in the first measure nor anywhere else in the score.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 88, '0', 'bVI.I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'bVI.I{' in m. 88, onset 0 (MC 88, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 88, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 88, onset 1/2 (MC 88, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 89, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 89, onset 0 (MC 89, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 89, '1/4', 'V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6(6)' in m. 89, onset 1/4 (MC 89, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 89, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 89, onset 1/2 (MC 89, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 90, '1/4', 'vi7(4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'vi7(4)' in m. 90, onset 1/4 (MC 90, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '3', '5') [('Db', 'Gb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 90, '1/2', 'V43(4)/V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V43(4)/V' in m. 90, onset 1/2 (MC 90, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '1', '2', '5') [('Db', 'Fb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 91, '1/4', 'V(4)|HC}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V(4)|HC}' in m. 91, onset 1/4 (MC 91, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '2') [('Cb', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 91, '3/8', 'V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V' in m. 91, onset 3/8 (MC 91, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '7', '2') [('Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 92, '0', 'I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I{' in m. 92, onset 0 (MC 92, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 92, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 92, onset 1/2 (MC 92, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 93, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 93, onset 0 (MC 93, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 93, '1/4', 'V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6(6)' in m. 93, onset 1/4 (MC 93, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 93, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 93, onset 1/2 (MC 93, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 94, '1/4', 'vi7(4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'vi7(4)' in m. 94, onset 1/4 (MC 94, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '3', '5') [('Db', 'Gb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 94, '1/2', 'V43(4)/V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V43(4)/V' in m. 94, onset 1/2 (MC 94, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '1', '2', '5') [('Db', 'Fb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 95, '1/4', 'V(4)|HC}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V(4)|HC}' in m. 95, onset 1/4 (MC 95, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '2') [('Cb', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 95, '3/8', 'V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V' in m. 95, onset 3/8 (MC 95, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '7', '2') [('Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 96, '0', 'I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I{' in m. 96, onset 0 (MC 96, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 96, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 96, onset 1/2 (MC 96, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 97, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 97, onset 0 (MC 97, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 97, '1/4', 'V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6(6)' in m. 97, onset 1/4 (MC 97, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 97, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 97, onset 1/2 (MC 97, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 98, '1/4', 'vi7(4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'vi7(4)' in m. 98, onset 1/4 (MC 98, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '3', '5') [('Db', 'Gb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 98, '1/2', 'V43(4)/V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V43(4)/V' in m. 98, onset 1/2 (MC 98, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '1', '2', '5') [('Db', 'Fb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 99, '1/4', 'V(4)|HC}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V(4)|HC}' in m. 99, onset 1/4 (MC 99, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '2') [('Cb', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 99, '3/8', 'V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V' in m. 99, onset 3/8 (MC 99, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '7', '2') [('Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 100, '0', 'I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I{' in m. 100, onset 0 (MC 100, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 100, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 100, onset 1/2 (MC 100, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 101, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 101, onset 0 (MC 101, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 101, '1/4', 'V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6(6)' in m. 101, onset 1/4 (MC 101, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 101, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 101, onset 1/2 (MC 101, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 102, '0', 'iii/bVI.V(#2)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'iii/bVI.V(#2)' in m. 102, onset 0 (MC 102, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#6', '2') [('Eb', 'F', 'Bb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 102, '1/2', 'V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V' in m. 102, onset 1/2 (MC 102, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2') [('Eb', 'G', 'Bb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 103, '0', 'i(#7)}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i(#7)}' in m. 103, onset 0 (MC 103, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('1', '3', '5') [('Ab', 'Cb', 'Eb')] plus the added ('#7',) [('G',)].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 103, '1/4', 'i|IAC') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i|IAC' in m. 103, onset 1/4 (MC 103, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('1', '3', '5') [('Ab', 'Cb', 'Eb')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 104, '0', 'bVI.ii{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'bVI.ii{' in m. 104, onset 0 (MC 104, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('2', '4', '6') [('Gb', 'Bbb', 'Db')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 105, '0', 'ii2(2)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'ii2(2)' in m. 105, onset 0 (MC 105, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '4', '6') [('Fb', 'Ab', 'Bbb', 'Db')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 105, '1/2', 'ii2') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'ii2' in m. 105, onset 1/2 (MC 105, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '2', '4', '6') [('Fb', 'Gb', 'Bbb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 106, '0', 'V65') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V65' in m. 106, onset 0 (MC 106, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '4', '5') [('Eb', 'Gb', 'Bbb', 'Cb')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 107, '0', 'ii64') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'ii64' in m. 107, onset 0 (MC 107, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '4') [('Db', 'Gb', 'Bbb')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 107, '1/4', 'viio2') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'viio2' in m. 107, onset 1/4 (MC 107, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('b6', '7', '2', '4') [('Dbb', 'Eb', 'Gb', 'Bbb')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 107, '1/2', 'I64}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I64}' in m. 107, onset 1/2 (MC 107, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '3') [('Cb', 'Fb', 'Ab')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 108, '0', 'V65/V{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V65/V{' in m. 108, onset 0 (MC 108, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('#4', '6', '1', '2') [('Bb', 'Db', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 109, '0', 'V2') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V2' in m. 109, onset 0 (MC 109, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('4', '5', '7', '2') [('Bbb', 'Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 7 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 110, '0', 'I6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I6' in m. 110, onset 0 (MC 110, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('3', '5', '1') [('Ab', 'Cb', 'Fb')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 111, '1/4', 'I64') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I64' in m. 111, onset 1/4 (MC 111, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '3') [('Cb', 'Fb', 'Ab')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 111, '1/2', 'I|IAC}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I|IAC}' in m. 111, onset 1/2 (MC 111, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 112, '0', 'ii{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'ii{' in m. 112, onset 0 (MC 112, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('2', '4', '6') [('Gb', 'Bbb', 'Db')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 113, '0', 'ii2(2)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'ii2(2)' in m. 113, onset 0 (MC 113, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '4', '6') [('Fb', 'Ab', 'Bbb', 'Db')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 113, '1/2', 'ii2') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'ii2' in m. 113, onset 1/2 (MC 113, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '2', '4', '6') [('Fb', 'Gb', 'Bbb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 114, '0', 'V65') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V65' in m. 114, onset 0 (MC 114, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '4', '5') [('Eb', 'Gb', 'Bbb', 'Cb')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 115, '0', 'ii64') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'ii64' in m. 115, onset 0 (MC 115, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '4') [('Db', 'Gb', 'Bbb')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 115, '1/4', 'viio2') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'viio2' in m. 115, onset 1/4 (MC 115, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('b6', '7', '2', '4') [('Dbb', 'Eb', 'Gb', 'Bbb')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 115, '1/2', 'I64}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I64}' in m. 115, onset 1/2 (MC 115, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '3') [('Cb', 'Fb', 'Ab')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 116, '0', 'V65/V{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V65/V{' in m. 116, onset 0 (MC 116, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('#4', '6', '1', '2') [('Bb', 'Db', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 117, '0', 'V2') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V2' in m. 117, onset 0 (MC 117, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('4', '5', '7', '2') [('Bbb', 'Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 7 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 118, '0', 'I6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I6' in m. 118, onset 0 (MC 118, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('3', '5', '1') [('Ab', 'Cb', 'Fb')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 119, '1/4', 'V43/V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V43/V' in m. 119, onset 1/4 (MC 119, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '1', '2', '#4') [('Db', 'Fb', 'Gb', 'Bb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 119, '1/2', 'V|HC}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V|HC}' in m. 119, onset 1/2 (MC 119, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '7', '2') [('Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 120, '0', 'I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I{' in m. 120, onset 0 (MC 120, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 120, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 120, onset 1/2 (MC 120, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 121, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 121, onset 0 (MC 121, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 121, '1/4', 'V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6(6)' in m. 121, onset 1/4 (MC 121, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 121, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 121, onset 1/2 (MC 121, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 122, '1/4', 'vi7(4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'vi7(4)' in m. 122, onset 1/4 (MC 122, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '3', '5') [('Db', 'Gb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 122, '1/2', 'V43(4)/V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V43(4)/V' in m. 122, onset 1/2 (MC 122, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '1', '2', '5') [('Db', 'Fb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 123, '1/4', 'V(4)}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V(4)}' in m. 123, onset 1/4 (MC 123, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '2') [('Cb', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 123, '3/8', 'V|HC') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V|HC' in m. 123, onset 3/8 (MC 123, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '7', '2') [('Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 124, '0', 'I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I{' in m. 124, onset 0 (MC 124, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 124, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 124, onset 1/2 (MC 124, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 125, onset 0 (MC 125, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/4', 'V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6(6)' in m. 125, onset 1/4 (MC 125, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 125, onset 1/2 (MC 125, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 126, '1/4', 'vi7(4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'vi7(4)' in m. 126, onset 1/4 (MC 126, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '3', '5') [('Db', 'Gb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 126, '1/2', 'V43(4)/V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V43(4)/V' in m. 126, onset 1/2 (MC 126, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '1', '2', '5') [('Db', 'Fb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 127, '1/4', 'V(4)}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V(4)}' in m. 127, onset 1/4 (MC 127, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '2') [('Cb', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 127, '3/8', 'V|HC') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V|HC' in m. 127, onset 3/8 (MC 127, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '7', '2') [('Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 128, '0', 'I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I{' in m. 128, onset 0 (MC 128, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 128, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 128, onset 1/2 (MC 128, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 129, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 129, onset 0 (MC 129, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 129, '1/4', 'V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6(6)' in m. 129, onset 1/4 (MC 129, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 129, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 129, onset 1/2 (MC 129, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 130, '1/4', 'vi7(4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'vi7(4)' in m. 130, onset 1/4 (MC 130, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '2', '3', '5') [('Db', 'Gb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 130, '1/2', 'V43(4)/V') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V43(4)/V' in m. 130, onset 1/2 (MC 130, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('6', '1', '2', '5') [('Db', 'Fb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 131, '1/4', 'V(4)}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V(4)}' in m. 131, onset 1/4 (MC 131, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '1', '2') [('Cb', 'Fb', 'Gb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 131, '3/8', 'V|HC') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V|HC' in m. 131, onset 3/8 (MC 131, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('5', '7', '2') [('Cb', 'Eb', 'Gb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 132, '0', 'I{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I{' in m. 132, onset 0 (MC 132, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 132, '1/2', 'I(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I(6#4)' in m. 132, onset 1/2 (MC 132, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '#4', '6') [('Fb', 'Ab', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 133, '0', 'I') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'I' in m. 133, onset 0 (MC 133, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('1', '3', '5') [('Fb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 133, '1/4', 'vii[V6(6)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'vii[V6(6)' in m. 133, onset 1/4 (MC 133, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '3', '5') [('Eb', 'Ab', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 133, '1/2', 'V6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V6' in m. 133, onset 1/2 (MC 133, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.bVI, it expresses the scale degrees
+	('7', '2', '5') [('Eb', 'Gb', 'Cb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 134, '0', 'iii/bVI.V7(#2)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'iii/bVI.V7(#2)' in m. 134, onset 0 (MC 134, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#6', '2', '4') [('Eb', 'F', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 134, '1/2', 'V7') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V7' in m. 134, onset 1/2 (MC 134, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2', '4') [('Eb', 'G', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 135, '0', 'i6(#7)}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i6(#7)}' in m. 135, onset 0 (MC 135, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('3', '5', '#7') [('Cb', 'Eb', 'G')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 135, '1/2', 'i6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i6' in m. 135, onset 1/2 (MC 135, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('3', '5', '1') [('Cb', 'Eb', 'Ab')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 136, '0', 'V7{') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V7{' in m. 136, onset 0 (MC 136, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2', '4') [('Eb', 'G', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 137, '0', 'i(+4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i(+4)' in m. 137, onset 0 (MC 137, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('1', '3', '5') [('Ab', 'Cb', 'Eb')] plus the added ('4',) [('Db',)].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 137, '1/2', 'i') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i' in m. 137, onset 1/2 (MC 137, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('1', '3', '5') [('Ab', 'Cb', 'Eb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 138, '0', 'i6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i6' in m. 138, onset 0 (MC 138, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('3', '5', '1') [('Cb', 'Eb', 'Ab')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 138, '3/8', 'i6(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i6(6#4)' in m. 138, onset 3/8 (MC 138, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('3', '#4', '6', '1') [('Cb', 'D', 'Fb', 'Ab')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 139, '0', 'V7(9)}') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V7(9)}' in m. 139, onset 0 (MC 139, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2', '4') [('Eb', 'G', 'Bb', 'Db')] plus the added ('6',) [('Fb',)].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 139, '1/2', 'V7') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V7' in m. 139, onset 1/2 (MC 139, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2', '4') [('Eb', 'G', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 141, '0', 'i(+4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i(+4)' in m. 141, onset 0 (MC 141, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('1', '3', '5') [('Ab', 'Cb', 'Eb')] plus the added ('4',) [('Db',)].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 141, '1/2', 'i') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i' in m. 141, onset 1/2 (MC 141, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('1', '3', '5') [('Ab', 'Cb', 'Eb')].
+	The corresponding score segment has 0 within-label and 1 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 142, '0', 'i6') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i6' in m. 142, onset 0 (MC 142, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('3', '5', '1') [('Cb', 'Eb', 'Ab')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 142, '3/8', 'i6(6#4)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'i6(6#4)' in m. 142, onset 3/8 (MC 142, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('3', '#4', '6', '1') [('Cb', 'D', 'Fb', 'Ab')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 143, '0', 'V7(9)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V7(9)' in m. 143, onset 0 (MC 143, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2', '4') [('Eb', 'G', 'Bb', 'Db')] plus the added ('6',) [('Fb',)].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 143, '3/8', 'V7') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V7' in m. 143, onset 3/8 (MC 143, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2', '4') [('Eb', 'G', 'Bb', 'Db')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 144, '0', 'V7(9)') ms3.Parse.tchaikovsky_seasons.op37a12
+	The label 'V7(9)' in m. 144, onset 0 (MC 144, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of Ab.iii/bVI, it expresses the scale degrees
+	('5', '#7', '2', '4') [('Eb', 'G', 'Bb', 'Db')] plus the added ('6',) [('Fb',)].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
