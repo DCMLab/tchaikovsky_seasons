@@ -2,12 +2,22 @@
     "license": "CC-BY-NC-SA-4.0",
     "contributors": [
         {
-            "type": "DataCollector",
-            "name": "Adrian Nagel"
+            "name": "Nagel, Adrian",
+            "type": "Annotator"
         },
         {
-            "type": "DataCollector",
-            "name": "John Heilig"
+            "name": "Hentschel, Johannes",
+            "type": "Annotator",
+            "orcid": "0000-0002-1986-9545"
+        },
+        {
+            "name": "Heilig, John",
+            "type": "Annotator"
+        },
+        {
+            "name": "Hentschel, Johannes",
+            "type": "DataCurator",
+            "orcid": "0000-0002-1986-9545"
         }
     ],
     "title": "Pyotr Tchaikovsky – The Seasons (A corpus of annotated scores)",
